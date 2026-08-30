@@ -1,0 +1,12 @@
+{
+    "domain_info": {
+        "server_ip": "192.168.X.X",
+        "domain_name": "yourdomain.local",
+        "admin_user": "audit_admin@yourdomain.local"
+    },
+    "audit_settings": {
+        "inactive_days_threshold": 90,
+        "brute_force_time_window_mins": 10,
+        "brute_force_attempts": 5
+    }
+}
